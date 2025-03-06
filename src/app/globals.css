@@ -3,7 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --mainLojaColor: #FEC72D
+  --mainLojaColor: #FEC72D;
+  --mainLojaBackground: #ffffff;
+  --mainLojaBackgroundHover: #EFEFEF;
 }
 
 @theme inline {
