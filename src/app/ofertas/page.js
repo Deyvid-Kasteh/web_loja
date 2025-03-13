@@ -12,7 +12,7 @@ export default function OfertasPage() {
 
   // Dados simulados de produtos em oferta
   const ofertas = [
-    { id: 1, nome: 'Smartphone XYZ', precoOriginal: 2499.90, precoAtual: 1899.90, desconto: 24, cor: 'bg-blue-400', avaliacao: 4.7 },
+    { id: 1, nome: 'Smartphone Kasteh Plus', precoOriginal: 10000.90, precoAtual: 7000.00, desconto: 24, cor: 'bg-blue-400', avaliacao: 4.7 },
     { id: 2, nome: 'Notebook Ultra', precoOriginal: 5999.90, precoAtual: 4799.90, desconto: 20, cor: 'bg-purple-400', avaliacao: 4.5 },
     { id: 3, nome: 'Fone de Ouvido sem Fio', precoOriginal: 399.90, precoAtual: 249.90, desconto: 38, cor: 'bg-green-400', avaliacao: 4.8 },
     { id: 4, nome: 'Smart TV 4K 50"', precoOriginal: 3299.90, precoAtual: 2599.90, desconto: 21, cor: 'bg-red-400', avaliacao: 4.6 },
