@@ -1,6 +1,7 @@
 "use client"
 import Head from "next/head";
 import { useEffect, useState } from "react";
+import Carousel from "@/components/carrossel";
 
 export default function Home() {
   const [images, setImages] = useState([]);
@@ -20,6 +21,48 @@ export default function Home() {
 
     return () => clearInterval(interval);
   }, [images]);
+
+
+  const slides = [
+    {
+      content: (
+        <div className="w-full h-full bg-blue-500 flex items-center justify-center">
+          <h2 className="text-white text-3xl font-bold">Slide 1</h2>
+        </div>
+      ),
+      caption: "Slide com fundo azul",
+    },
+    {
+      content: (
+        <div className="w-full h-full bg-green-500 flex items-center justify-center">
+          <h2 className="text-white text-3xl font-bold">Slide 2</h2>
+        </div>
+      ),
+      caption: "Slide com fundo verde",
+    },
+    {
+      content: (
+        <div className="w-full h-full bg-purple-500 flex items-center justify-center">
+          <h2 className="text-white text-3xl font-bold">Slide 3</h2>
+        </div>
+      ),
+      caption: "Slide com fundo roxo",
+    },
+    {
+      content: (
+        <div className="w-full h-full bg-red-500 flex items-center justify-center">
+          <h2 className="text-white text-3xl font-bold">Slide 4</h2>
+        </div>
+      ),
+      caption: "Slide com fundo vermelho",
+    },
+    // Adicione mais slides conforme necessário
+  ];
+
+
+
+
+
 
   return (
     <div>
@@ -77,6 +120,8 @@ export default function Home() {
             </button>
           </div>
         </div>
+
+        <Carousel slides={slides} />
       </main>
     </div>
   );
