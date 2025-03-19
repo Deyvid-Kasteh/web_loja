@@ -10,7 +10,7 @@
       "marca": "Samsung",
       "estoque": 45,
       "avaliacao": 4.7,
-      "imagem": "galaxy-x10.jpg",
+      "imagem": "https://fujiokadistribuidor.vteximg.com.br/arquivos/ids/169810",
       "destaque": true,
       "novidade": true,
       "cores": ["Preto", "Azul", "Prata"]
@@ -25,7 +25,7 @@
       "marca": "Dell",
       "estoque": 18,
       "avaliacao": 4.8,
-      "imagem": "ultrabook-pro.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/714u1r8KxjS.jpg",
       "destaque": true,
       "novidade": true,
       "cores": ["Prata", "Grafite"]
@@ -40,7 +40,7 @@
       "marca": "Nike",
       "estoque": 75,
       "avaliacao": 4.5,
-      "imagem": "tenis-running.jpg",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/1298908/tenis_para_running_feidian_4_ultra_li_ning_153_2_64ef1d26da1a1c133f72a416d5da5cb5.jpg",
       "destaque": false,
       "novidade": false,
       "tamanhos": [38, 39, 40, 41, 42, 43],
@@ -56,7 +56,7 @@
       "marca": "LG",
       "estoque": 12,
       "avaliacao": 4.6,
-      "imagem": "tv-4k-55.jpg",
+      "imagem": "https://a-static.mlcdn.com.br/1500x1500/smart-tv-55-4k-uhd-qled-tcl-55c655-wi-fi-bluetooth-3-hdmi-1-usb/magazineluiza/238305100/9065a9a5f5ffdc650f1f7bf18ece4d32.jpg",
       "destaque": true,
       "novidade": false,
       "cores": ["Preto"]
@@ -71,7 +71,7 @@
       "marca": "Philips",
       "estoque": 30,
       "avaliacao": 4.3,
-      "imagem": "cafeteira.jpg",
+      "imagem": "https://electrolux.vtexassets.com/arquivos/ids/214556/Coffee_Machine_ECM30_FrontView_Electrolux_1000x1000_principal.jpg?v=637721920607430000",
       "destaque": false,
       "novidade": false,
       "cores": ["Inox", "Preto"]
@@ -86,7 +86,7 @@
       "marca": "Samsonite",
       "estoque": 40,
       "avaliacao": 4.4,
-      "imagem": "mochila.jpg",
+      "imagem": "https://images8.kabum.com.br/produtos/fotos/551158/mochila-para-notebook-rise-mode-ate-15-6-safe-03-backpack-preto-rm-bp-s-03-b_1734016567_g.jpg",
       "destaque": false,
       "novidade": false,
       "cores": ["Preto", "Azul Marinho", "Cinza"]
@@ -101,7 +101,7 @@
       "marca": "Xiaomi",
       "estoque": 15,
       "avaliacao": 4.7,
-      "imagem": "aspirador-robo.jpg",
+      "imagem": "https://images9.kabum.com.br/produtos/fotos/366169/robo-aspirador-kabum-smart-900-127v-branco-kbsf011_1731502405_g.jpg",
       "destaque": true,
       "novidade": true,
       "cores": ["Branco"]
@@ -116,7 +116,7 @@
       "marca": "Sony",
       "estoque": 50,
       "avaliacao": 4.6,
-      "imagem": "fone-bluetooth.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41YmidweMtL._AC_SX679_.jpg",
       "destaque": true,
       "novidade": true,
       "cores": ["Preto", "Branco", "Azul"]
